@@ -18,9 +18,9 @@
 
 <br>
 <br>
-<a href="./data-design-user-story.php">data-design-user-story.php </a>
+<a href="./data-design-user-story.php">data-design-user-story</a>
 <br>
 <br>
-<a href="./data-design-interaction-flow.php">data-interaction-flow.php </a>
+<a href="./data-design-interaction-flow.php">data-interaction-flow</a>
 </body>
 </html>
