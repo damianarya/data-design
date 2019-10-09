@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>data-design</title>
-	<link rel="stylesheet" type="text/css" href="./data-design.css">
+	<link rel="stylesheet" type="text/css" href="data-design.css">
 </head>
 <body>
 <h1> persona:</h1>
@@ -12,7 +12,7 @@
 <br> I lke to throw large partys and have more money then I know what to do with.
 <br> I do not drive or have a car and I'm very lazy, if its easyer then thats the way for me.
 <br> I keep odd work and sleeping hours and I'm famous for my cooking skills but I dislike making my own food.</P>
-<div>
+
 
 <img src="download.jpg">
 	<br>
