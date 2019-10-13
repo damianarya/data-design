@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>conceptual model</title>
+</head>
+<body>
+<p>
+	<ul>
+	<li><h1>profile</h1></li>
+	<li>PK profileId</li>
+	<li>profileActivationTokken</li>
+	<li>orderAddress</li>
+	<li>profileEmail</li>
+	<li>profileName</li>
+	<li>profilePhone</li>
+	<li><h2>Restaurant</h2></li>
+	<li>PK restaurantId</li>
+	<li>FK profileId</li>
+	<li>restauntMenu</li>
+	<li>restaurantName</li>
+	<li><h3>order</h3></li>
+	<li>PK orderId</li>
+	<li>FK profileId</li>
+	<li>FK restaurantId</li>
+	<li>conformationPayment</li>
+	<li>orderAddress</li>
+	<li>orderConformation</li>
+	<li>orderPayment</li>
+	<li>orderZipCode</li>
+	<br>
+	<li><h4>relations</h4></li>
+	<li>one restaurant can have many orders</li>
+	<li>one profile can order from many restaurants</li>
+	<li>one profile can have many orders</li>
+</ul>
+</p>
+</body>
+</html>
