@@ -27,7 +27,7 @@
 <a href="./conceptual-model.html">phase 2 conceptual model</a>
 <br>
 <br>
-<a href="./diagram.png.png">phase 2 ERD</a>
+<a href="./diagramtwo.jpg">phase 2 ERD</a>
 
 </body>
 </html>
