@@ -28,6 +28,9 @@
 <br>
 <br>
 <a href="./diagramtwo.jpg">phase 2 ERD</a>
+<br>
+<br>
+<a href="./data-design.sql">phase 3 MySQL</a>
 
 </body>
 </html>
