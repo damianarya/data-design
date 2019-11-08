@@ -1,6 +1,7 @@
 drop table if exists orders;
 drop table if exists restaurant;
 drop table if exists profile;
+drop table if exists todo;
 
 create table profile(
 	profileId binary(16) not null,
@@ -33,10 +34,25 @@ create table orders (
    orderRestaurantId binary(16) not null,
    conformationPayment char(97) not null,
    orderAddress varchar(255)not null,
-   orderconformation binary (1) not null,
+   orderConformation binary (1) not null,
    orderZipCode char(5) not null,
    index (orderId),
    foreign key (orderProfileId) references profile (profileId),
    foreign key  (orderRestaurantId) references restaurant (restaurauntId),
    primary key (orderId)
+);
+/**
+  this table is for assessment 1
+ */
+
+create table todo(
+	todoId binary(16) not null,
+	todoAuthor varchar(128) not null,
+	todoDate char(8),
+	todoTask varchar(255) not null,
+	unique(todoId),
+	unique(todoAuthor),
+	index(todoDate),
+	index(todoTask),
+	primary key (todoId)
 );
