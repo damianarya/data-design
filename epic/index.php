@@ -5,6 +5,7 @@
 	<title>data-design</title>
 	<link rel="stylesheet" type="text/css" href="data-design.css">
 </head>
+<!--this project was compleated in class during week one or two -->
 <body>
 <h1> persona:</h1>
 <br>
