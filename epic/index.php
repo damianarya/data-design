@@ -9,7 +9,7 @@
 <body>
 <h1> persona:</h1>
 <br>
-<P> I'm Jesse Pinkman. I live in albuquerque. I'm average to below average tech and computer user.
+<P> I'm Jesse Pinkman. I live in albuquerque. I'm average to below average tech and computer user!.
 	<br> I lke to throw large partys and have more money then I know what to do with.
 	<br> I do not drive or have a car and I'm very lazy, if its easyer then thats the way for me.
 	<br> I keep odd work and sleeping hours and I'm famous for my cooking skills but I dislike making my own food.
